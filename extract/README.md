@@ -6,3 +6,4 @@ Put the base ROM(s) in this directory. Please verify that your dumped ROM matche
 | ------- | -------------------- | ------------------------------------------ |
 | EUR     | `baserom_st_eur.nds` | `9e99cc803a14ce038eb908db585431f8254f09ee` |
 |  JP     |  `baserom_st_jp.nds` | `eaee3602b8a2235211b2e20cdcd4cb357956a264` |
+|  NA     |  `baserom_st_na.nds` | `1f0921b5e99db9d92d24710f1b004e4f3c997b73` |

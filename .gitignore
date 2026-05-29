@@ -22,3 +22,7 @@ m2c*.c
 nonmatchings/
 .venv/
 venv/
+extract/path_order.txt
+extract/header_logo.png
+extract/header.yaml
+extract/config.yaml

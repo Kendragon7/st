@@ -26,6 +26,7 @@ config.objdiff_tag = "v3.7.1"
 GAME_VERSIONS = [
     "eur",
     "jp",
+    "na",
 ]
 
 # Only configure versions for which a baserom file exists
